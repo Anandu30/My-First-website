@@ -1,0 +1,68 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+    width:100%;
+    height:1000px;
+    background:url(../image/blue-wave-design-brochure-website-flyer-stream-transparent-blue-ox-white-background_206325-1078.jpg);
+    background-size: cover;
+}
+.head{
+    width:100%;
+    height:200px;
+    float:left;
+}
+.pic{
+    width:40%;
+    height:150px;
+    float:left;
+    
+}
+.link{
+    width:60%;
+    height:100px;
+    float:left;
+    margin-top:60px;
+    text-align: center;
+}
+.link a{
+    margin: 5px;
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:lightskyblue;
+    background-color: white;
+    margin:4px;
+    padding:3px;
+}
+.link a:hover{
+    color:white;
+    background-color: lightskyblue;
+}
+.body1{
+    margin-left: 157px;
+
+}
+.body2{
+    margin-left: 157px;
+}
+.body2 a{
+    margin-left: -77px;
+}
+.body2 h3{
+    text-align: center;
+    margin-left: -205px;
+}
+.body2 img {
+    height: 158px;
+    margin-left: 420px;
+}
+.foot h6{
+    text-align: center;
+    margin-top:81px;
+    margin-right: 38px;
+}
+.foot i{
+    margin-left: 660px;
+    
+}
